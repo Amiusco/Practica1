@@ -1,0 +1,9 @@
+C:\Users\FcoWin10\Documents\GitHub\Practica1\HolaMundo\HolaMundo\bin\Debug\netcoreapp1.1\HolaMundo.deps.json
+C:\Users\FcoWin10\Documents\GitHub\Practica1\HolaMundo\HolaMundo\bin\Debug\netcoreapp1.1\HolaMundo.runtimeconfig.json
+C:\Users\FcoWin10\Documents\GitHub\Practica1\HolaMundo\HolaMundo\bin\Debug\netcoreapp1.1\HolaMundo.runtimeconfig.dev.json
+C:\Users\FcoWin10\Documents\GitHub\Practica1\HolaMundo\HolaMundo\bin\Debug\netcoreapp1.1\HolaMundo.dll
+C:\Users\FcoWin10\Documents\GitHub\Practica1\HolaMundo\HolaMundo\bin\Debug\netcoreapp1.1\HolaMundo.pdb
+C:\Users\FcoWin10\Documents\GitHub\Practica1\HolaMundo\HolaMundo\obj\Debug\netcoreapp1.1\HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\FcoWin10\Documents\GitHub\Practica1\HolaMundo\HolaMundo\obj\Debug\netcoreapp1.1\HolaMundo.AssemblyInfo.cs
+C:\Users\FcoWin10\Documents\GitHub\Practica1\HolaMundo\HolaMundo\obj\Debug\netcoreapp1.1\HolaMundo.dll
+C:\Users\FcoWin10\Documents\GitHub\Practica1\HolaMundo\HolaMundo\obj\Debug\netcoreapp1.1\HolaMundo.pdb
